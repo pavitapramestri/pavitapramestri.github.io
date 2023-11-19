@@ -15,7 +15,7 @@ body, html {
 }
 .content1 { 
 	width:100%;
-	height:100%;
+	height:40%;
 	position:absolute;
 	left:0px;
 	top:34px;
@@ -99,7 +99,7 @@ body, html {
 	left:334px;
 	top:320px;
 	font-family:Playfair Display;
-	text-align:center;
+	text-align:left;
 	font-size:30px;
 	letter-spacing:0;
 }
